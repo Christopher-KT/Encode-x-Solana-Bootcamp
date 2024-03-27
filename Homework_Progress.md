@@ -5,4 +5,7 @@ Listen to the Zero knowledge episode about Solana - complete 3/25
 
 
 Homework 2
-Solana Ecosystem - incomplete
+Solana Ecosystem - complete 3/26
+
+
+Homework 3
