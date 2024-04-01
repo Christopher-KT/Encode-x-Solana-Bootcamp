@@ -22,9 +22,17 @@ Create keypair - complete 3/27
 Connect to dev network - complete 3/27
 
 
-Homework 4 - complete (with help) 3/28
+Homework 4
+
+Break Solana game - incomplete
+
+Create Fizz Buzz program complete (with help) 3/28
 
 
-Homework 5 - incomplete
+Homework 5
+
+Install exercises from Git - complete 4/1
+
+Run homework window
 
 
